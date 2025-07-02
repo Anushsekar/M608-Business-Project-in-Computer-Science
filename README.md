@@ -10,17 +10,20 @@ An interactive Streamlit dashboard for visualizing global cyber threats, financi
 - IP address lookup against blocklists
 - Modular, extensible codebase
 
+<img width="1509" alt="Screenshot 2025-07-01 at 7 56 32 PM" src="https://github.com/user-attachments/assets/8301e58f-c7c5-4010-a16d-6f291a9315b1" />
+
+
 ## Data Sources
-- [Global Cybersecurity Threats 2015–2024 (Kaggle)](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
-- [Global Losses From Netcrime (Kaggle)](https://www.kaggle.com/datasets/huzpsb/cybersecurity-incidents-dataset)
-- [FireHOL Level 1 IP Blocklist](https://github.com/firehol/blocklist-ipsets)
+- [Global Cybersecurity Threats 2015–2024 (Kaggle)](https://www.kaggle.com/datasets/sedthh/global-cybersecurity-threats-20152024)
+- [Global Losses From Netcrime (Kaggle)](https://www.kaggle.com/datasets/thedevastator/global-losses-from-netcrime-2015-2023)
+- [FireHOL Level 1 IP Blocklist](https://iplists.firehol.org/)
 - [AlienVault OTX (Open Threat Exchange) API](https://otx.alienvault.com/)
 
 ## Quick Start
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AnushSekar/cyber-threat-dashboard.git
+git clone https://github.com/Anushsekar/M608-Business-Project-in-Computer-Science.git
 cd cyber-threat-dashboard
 ```
 
@@ -55,3 +58,4 @@ This project is for educational use at Gisma University.
 
 ---
 Developed by Anush Sekar.
+
