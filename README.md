@@ -14,8 +14,8 @@ An interactive Streamlit dashboard for visualizing global cyber threats, financi
 
 
 ## Data Sources
-- [Global Cybersecurity Threats 2015–2024 (Kaggle)](https://www.kaggle.com/datasets/sedthh/global-cybersecurity-threats-20152024)
-- [Global Losses From Netcrime (Kaggle)](https://www.kaggle.com/datasets/thedevastator/global-losses-from-netcrime-2015-2023)
+- [Global Cybersecurity Threats 2015–2024 (Kaggle)](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
+- [Global Losses From Netcrime (Kaggle)](https://www.kaggle.com/datasets/huzpsb/cybersecurity-incidents-dataset)
 - [FireHOL Level 1 IP Blocklist](https://iplists.firehol.org/)
 - [AlienVault OTX (Open Threat Exchange) API](https://otx.alienvault.com/)
 
