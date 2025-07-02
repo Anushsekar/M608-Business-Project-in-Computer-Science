@@ -71,11 +71,11 @@ with st.expander("About & Data Sources"):
     **Data sources:**
     - **Global Cybersecurity Threats 2015–2024**  
     Major cyber attacks, countries, industries, attack types, and losses.  
-    Source: [Kaggle](https://www.kaggle.com/datasets/sedthh/global-cybersecurity-threats-20152024)
+    Source: [Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-cybersecurity-threats-2015-2024)
 
-    - **Global Losses From Netcrime (2015–2023)**  
+    - **Global Losses From Netcrime (2019–2024)**  
     Annual reported financial losses due to cybercrime.  
-    Source: [Kaggle](https://www.kaggle.com/datasets/thedevastator/global-losses-from-netcrime-2015-2023)
+    Source: [Kaggle](https://www.kaggle.com/datasets/huzpsb/cybersecurity-incidents-dataset)
 
     - **FireHOL Level 1 IP Blocklist**  
     Continuously updated list of known malicious IP addresses.  
